@@ -6,31 +6,13 @@ Whenever you want , you can also join on FaceBook   [Facebook ID](https://www.fa
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Just 1 call and I will be There , Note Down my Number .
+# 9423242651
+# 24 तास उपलब्ध, फक्त आवाज द्या!!
 
-```markdown
-Syntax highlighted code block
+### Mr. Gajanan Dagdu Khande 
+ ## ये सिर्फ नाम नहीं ब्रांड है ब्रांड
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gdk2915/WT_Ass1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
