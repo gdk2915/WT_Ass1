@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My GDK Kingdom
 
 You can use the [my insta ID](https://www.instagram.com/gajanan.khande_2915/) to check my photo .
 
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with anything ? Just Dial my Number 9423242651
