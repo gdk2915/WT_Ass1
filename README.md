@@ -2,7 +2,7 @@
 
 You can use the [my insta ID](https://www.instagram.com/gajanan.khande_2915/) to check my photo .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you want , you can also join on FaceBook   [Facebook ID](https://www.facebook.com/gajanan.khande/) to connect with add me .
 
 ### Markdown
 
